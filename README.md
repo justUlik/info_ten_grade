@@ -6,3 +6,4 @@ All homework on basic Python programming for the 10th grade
 * [antonymize_text](/antonymize_text_eskova.py)
 * [cached_function](/cached_function.py)
 * [hold_em](/hold_em.py)
+* [essentialest_art](/essentialest_art.py)
